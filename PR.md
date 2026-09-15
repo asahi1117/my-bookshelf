@@ -2,8 +2,8 @@
 
 ## 提出URL
 
-- リポジトリ: https://github.com/asahi1117/my-bookshelf （作成後に push）
-- GitHub Pages: 任意。`vite.config.js` に `base: './'` 済み。公開する場合は `pnpm run deploy` のあと Pages のソースを `gh-pages` ブランチにする。
+- リポジトリ: https://github.com/asahi1117/my-bookshelf
+- 作業ブランチ: `feat/bookshelf`（`main` は Vite React テンプレート、実装はこのブランチ）
 
 ## 作ったコンポーネントの一覧と、それぞれが何を担当しているか
 
